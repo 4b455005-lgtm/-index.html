@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>朱浚楷的首頁</title>
+   <meta http-equiv="refresh" content="3; url=https://ex2.html">
+ </head>
+ <body>
+
+<h1>Hello,World!!<p></h1>
+
+<h2>基本資料<h2>
+班級:電商二甲<p>
+姓名:朱浚楷<p>
+學號:4B455005<p>
+
+<h2>一張自己美美的照片<h2>
+<img src="boy.png"width="30%" height="30%">
+
+<h2> 要有 網頁標題</h2>
+
+<h2> 我的網頁設計經歷</h2>
+
+<h2> 我對這門課程的期望</h2>
